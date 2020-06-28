@@ -1,0 +1,19 @@
+.hero.is-dark {
+    background-color: #02000e !important;
+}
+
+.input:active,
+.input:focus,
+.is-active.input,
+.is-active.textarea,
+.is-focused.input,
+.is-focused.textarea,
+.select select.is-active,
+.select select.is-focused,
+.select select:active,
+.select select:focus,
+.textarea:active,
+.textarea:focus {
+    border-color: #00d1b2 !important;
+    box-shadow: 0 0 0 0.125em rgba(0, 209, 178, .25) !important;
+}
